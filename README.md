@@ -1,8 +1,5 @@
 ## Olá! Eu sou o Felipe Léo Bueno
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+tenho 27 anos e estou começando a explorar o mundo de back e front end pela Alura
 
 <div align="center">
   <a href="https://github.com/felipeleobueno">
