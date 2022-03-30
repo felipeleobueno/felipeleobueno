@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Felipe Léo Bueno
-tenho 27 anos e estou começando a explorar o mundo de back e front end pela Alura
+Tenho 27 anos e estou começando a explorar o mundo de back e front end pela Alura
 
 <div align="center">
   <a href="https://github.com/felipeleobueno">
